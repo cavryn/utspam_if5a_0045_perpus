@@ -40,7 +40,7 @@ class LocalStorageService {
       final defaultBooks = [
         Book(
           id: 'b1',
-          title: 'Belajar Dart & Flutter',
+          title: 'Flutter and Dart Cookbook',
           genre: 'Teknologi',
           pricePerDay: 5000,
           cover: 'assets/images/cover1.jpg',
@@ -48,15 +48,15 @@ class LocalStorageService {
         ),
         Book(
           id: 'b2',
-          title: 'Pemrograman Mobile',
+          title: 'Teknologi Untuk Masa Depan',
           genre: 'Teknologi',
           pricePerDay: 7000,
           cover: 'assets/images/cover2.jpg',
-          synopsis: 'Buku tentang pola arsitektur aplikasi mobile.',
+          synopsis: 'Buku yang menunjukkan potensi perkembangan teknologi di masa depan.',
         ),
         Book(
           id: 'b3',
-          title: 'Novel Petualangan',
+          title: 'Trio Detektif',
           genre: 'Fiksi',
           pricePerDay: 4000,
           cover: 'assets/images/cover3.jpg',
