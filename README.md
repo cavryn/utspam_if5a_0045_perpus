@@ -8,7 +8,7 @@ Aplikasi ini merupakan proyek UTS yang dibuat menggunakan **Flutter** dengan kon
 
 ### 🔐 **1. Register & Login**
 - Pengguna dapat membuat akun baru
-- Validasi input (NIK, email, nomor telepon, password)
+- Validasi input (NIM, email, nomor telepon, password)
 - Data akun disimpan menggunakan `shared_preferences`
 - Sistem sesi login (auto login setelah berhasil)
 
@@ -67,7 +67,7 @@ Terdapat fitur:
 Menampilkan data user:
 - Nama
 - Email
-- NIK
+- NIM
 - Username
 - Alamat
 - Nomor HP
